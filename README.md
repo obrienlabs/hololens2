@@ -11,7 +11,8 @@ The Microsoft Hololens 2 is the 52 degree successor to the Hololens 2 (based aro
 
 ![Hololens 2](IMG_0483.jpg)
 
-Purchase the developer version at $4700 with $500 azure credits and 3months Unity professional (get the free trial for 30 days until the device arrives 
+Purchase the developer version at $4700 with $500 azure credits and 3months Unity professional (get the free trial for 30 days until the device arrives)
+https://docs.microsoft.com/en-ca/hololens/hololens2-options-dev-edition
 
 https://store.unity.com/configure-plan/unity-pro-trial
 
